@@ -1,5 +1,7 @@
 # kickstart.nvim
-
+```
+sudo pacman -S --noconfirm --needed wl-clipboard ripgrep fd unzip neovim
+```
 ## Introduction
 
 A starting point for Neovim that is:
